@@ -9,3 +9,6 @@ export default function MainCourse() {
     <div>MainCourse</div>
   )
 }
+ const value = () => {
+  return true
+ }
